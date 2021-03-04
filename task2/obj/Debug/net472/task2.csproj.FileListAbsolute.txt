@@ -1,0 +1,9 @@
+D:\proga\2sem\C#\Lab2\task2\task2\bin\Debug\net472\task2.exe.config
+D:\proga\2sem\C#\Lab2\task2\task2\bin\Debug\net472\task2.exe
+D:\proga\2sem\C#\Lab2\task2\task2\bin\Debug\net472\task2.pdb
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.csprojAssemblyReference.cache
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.AssemblyInfoInputs.cache
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.AssemblyInfo.cs
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.csproj.CoreCompileInputs.cache
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.exe
+D:\proga\2sem\C#\Lab2\task2\task2\obj\Debug\net472\task2.pdb
